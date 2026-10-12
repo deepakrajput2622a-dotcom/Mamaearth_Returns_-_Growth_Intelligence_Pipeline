@@ -1,8 +1,0 @@
-Situation:
-Across H1 2026, Mamaearth's regional operations achieved a verified cleaned total revenue of INR 97,358.30 across 175 legitimate orders. Initial reporting indicated a raw total revenue of INR 99,860.20; however, an exact reconciliation delta of 2,501.90 was identified and attributed to five double-submitted duplicate orders removed during data cleaning. The monthly revenue trend shows that March 2026 is the true peak month at INR 20,318.90, whereas January 2026 apparent revenue of INR 29,582.10 was an artifact inflated by two bulk outlier orders and normalizes to INR 11,637.10 once corrected.
-
-Complication:
-Product return rates vary sharply across payment methods, creating severe operational drag. Cash on Delivery (COD) transactions exhibit a severe return rate of 44.4%, which is three times higher than Card payments at 14.7% and substantially above UPI at 18.9%. Deep-dive multi-level segmentation demonstrates that this risk is heavily concentrated geographically: COD orders from Tier-2 cities constitute the single highest-risk segment with an alarming return rate of 54.5%, compared to 37.5% for Tier-1 COD orders.
-
-Resolution:
-To protect margins and curb logistics expenses, regional operations and finance teams should enforce targeted COD controls in high-risk zones. Interventions include automated phone and address pre-verification, a nominal non-refundable booking deposit for COD orders originating from Tier-2 cities to mitigate the 54.5% return rate, and incentivizing digital prepayments (UPI and Card). In addition, inventory planning should align with March peak demand rather than outlier-skewed January figures.
