@@ -1,0 +1,8 @@
+Situation:
+Cleaned total revenue is INR 97,358.30. The raw total of INR 99,860.20 was overstated by INR 2,501.90, entirely due to duplicate (double-submitted) orders removed during cleaning. March 2026 is the true peak month at INR 20,318.90.
+
+Complication:
+Returns are concentrated rather than uniform. COD orders return at 44.4%, against 14.7% for Card and 18.9% for UPI. The highest-risk segment is COD in Tier-2 cities at 54.5%. Separately, January 2026 appears strongest at INR 29,582.10, but that is an artifact of two bulk orders; corrected, it is INR 11,637.10.
+
+Resolution:
+Target COD orders in Tier-2 cities first (the 54.5% segment) with address and phone pre-verification and prepaid incentives. Plan inventory and campaigns around March 2026 (INR 20,318.90) rather than January 2026. Add duplicate-order protection at checkout to avoid repeating the INR 2,501.90 overstatement.
